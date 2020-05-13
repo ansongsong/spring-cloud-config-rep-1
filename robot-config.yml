@@ -4,3 +4,10 @@ xiaoan:
 spring:
   profiles:
     active: prod
+---
+xiaoan:
+  test: test_ass
+  password: 123456
+spring:
+  profiles:
+    active: dev
