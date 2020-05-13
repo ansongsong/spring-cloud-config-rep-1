@@ -1,13 +1,13 @@
 xiaoan:
   test: test_ass
-  password: 123456
+  password: 12345622211
 spring:
   profiles:
     active: prod
 ---
 xiaoan:
   test: test_ass
-  password: 123456
+  password: 123456111
 spring:
   profiles:
     active: dev
