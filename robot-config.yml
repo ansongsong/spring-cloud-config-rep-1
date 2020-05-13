@@ -1,6 +1,6 @@
 xiaoan:
   test: test_ass
-  password: 123456
+  password: 123456222
 spring:
   profiles:
     active: prod
